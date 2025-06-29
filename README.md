@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 📝 Blog 🔝
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-https://www.linkedin.com/in/akhmad-rafihaidarrahman-459962354/
+
 
 ## Skills:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -25,6 +25,7 @@ https://www.linkedin.com/in/akhmad-rafihaidarrahman-459962354/
 
 #### Connect With Me
 ![https://www.linkedin.com/in/akhmad-rafihaidarrahman-459962354/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+https://www.linkedin.com/in/akhmad-rafihaidarrahman-459962354/
 
 [![AkhmadRafiHaidarrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhmadRafiHaidarrahman&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
